@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/jawadali-2004/jawadali-2004/blob/main/github%20profile.png)
 
 <h1 align="center">Hi 👋, I'm Jawad Ali</h1>
 <h3 align="center">A passionate MERN developer from Pakistan</h3>
